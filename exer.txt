@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>用户注册</title>
+</head>
+<body>
+    <h2 align="center">个人信息调查表</h2>
+	<table align="center" border="1" cellspacing="0 cellpadding="4" bgcolor="pink" bordercolor="white align="center">
+		<tr>
+			<td colspan="2"><font color="darkgray">请仔细填写下列信息</font></td>
+		</tr>
+		<tr>
+			<td align="right">姓&nbsp&nbsp名</td>
+			<td><input type="text"><font color="red"></font></td>
+		</tr>
+		<tr>
+			<td align="right">密&nbsp&nbsp码</td>
+			<td><input type="password"><font color="red"></font></td>
+		</tr>
+		<tr>
+			<td align="right">密码确认</td>
+			<td><input type="password"><font color="red"></font></td>
+		</tr>
+		<form>
+		<tr>
+			<td align="right">爱&nbsp&nbsp好</td>
+			<td><input type="checkbox">看书
+			    <input type="checkbox" selected="selected">跑步
+			    <input type="checkbox">打羽毛球
+			</td>
+		</tr>
+
+		<tr>
+			<td align="right">性&nbsp&nbsp别</td>
+			<td><input type="radio"name="xingbie" checked="checked">男
+			    <input type="radio" name="xingbie">女</td>
+		</tr>
+		</form>
+	</table>
+		<p align="center">
+	         <a href="练习1(附).html"><input type="submit"value="提交"></a>
+			<input type="reset" value="重置"><a href="练习.html"></a>
+		</p>
+</body>
+</html>
