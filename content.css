@@ -1,0 +1,88 @@
+.xiayu{
+	height: 450px;
+	width: 100%;
+	margin:0 auto;
+}
+.touxiang{
+	position: relative;
+	margin-left: 80px;
+	margin-top: 50px;
+}
+#photo{
+   width:300px;
+   height: 300px;
+   margin-left:80px;
+   margin-top: 50px;
+   border-radius: 150px;
+   float: left;
+}
+.word{
+	position: relative;
+	width: 400px;
+	height: 500px;
+	text-indent:40px;
+	font-size: 20px;
+	left: 50px;
+	font-weight: 400;
+	float: left;
+}
+#xuexiao{
+	margin-top:65px;
+	font-size:40px;
+	font-weight:900;
+	font-family:黑体;
+}
+.status{
+	position: relative;
+	margin-left:100px;
+	margin-top: 0px;
+	font-family:黑体；
+	font-weight:600;
+	float: left;
+}
+#title{
+	font-size: 40px;
+	font-family:黑体;
+	font-weight: 600px;
+}
+#html-study{
+	width: 250%;
+	height: 20px;
+	background-color: #dfeddf;
+}
+#html-study div{
+	width: 60%;
+	height: 20px;
+	background-color: #ccc;
+}
+
+#css-study{
+	width: 250%;
+	height: 20px;
+	background-color: #dfeddf;
+}
+#css-study div{
+	width: 40%;
+	height: 20px;
+	background-color: #78b3af;
+}
+#js-study{
+	width: 250%;
+	height: 20px;
+	background-color: #dfeddf;
+}
+#js-study div{
+	width: 10%;
+	height: 20px;
+	background-color: #8d9d83;
+}
+#ps-study{
+	width: 250%;
+	height: 20px;
+	background-color: #dfeddf;
+}
+#ps-study div{
+	width: 15%;
+	height: 20px;
+	background-color: #4f504f;
+}
